@@ -1,0 +1,14 @@
+{
+  "name": "barras-uso",
+  "owner": {
+    "name": "domingossouzalima-dev"
+  },
+  "description": "Barras de preenchimento para o Claude Code: contexto, janela de 5h e uso semanal.",
+  "plugins": [
+    {
+      "name": "barras-uso",
+      "source": "./",
+      "description": "Barras de preenchimento para o Claude Code: contexto, janela de 5h e uso semanal."
+    }
+  ]
+}

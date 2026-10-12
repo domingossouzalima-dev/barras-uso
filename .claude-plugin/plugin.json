@@ -1,0 +1,13 @@
+{
+  "name": "barras-uso",
+  "version": "0.1.0",
+  "description": "Barras de preenchimento para o Claude Code: contexto, janela de 5h e uso semanal.",
+  "author": {
+    "name": "domingossouzalima-dev",
+    "url": "https://github.com/domingossouzalima-dev"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/domingossouzalima-dev/barras-uso",
+  "repository": "https://github.com/domingossouzalima-dev/barras-uso",
+  "types": "./types/index.d.ts"
+}
